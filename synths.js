@@ -33,7 +33,7 @@ export const synths = [
     name: 'DSI Prophet Rev2'
   },
   {
-    name: 'Sequential Prophet 6'
+    name: 'Sequential Circuits Prophet 6'
   },
   {
     name: 'Elektron Analog Four'
@@ -73,6 +73,12 @@ export const synths = [
   },
   {
     name: 'Korg MicroKORG XL+'
+  },
+  {
+    name: 'Korg Poly 800-MKI'
+  },
+  {
+    name: 'Korg Poly 800-MKII'
   },
   {
     name: 'Modal 001'
@@ -172,6 +178,9 @@ export const synths = [
   },
   {
     name: 'Roland TB-3'
+  },
+  {
+    name: 'Sequential Circuits Six-Trak'
   },
   {
     name: 'Teenage Engineering OP1'
